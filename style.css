@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(251, 164, 106);
+    font-family: 'Dancing Script', cursive;
+font-family: 'Romanesco', cursive;
+font-family: 'Smooch', cursive;
+    font-size: 30px;
+}
+h2{
+    font-size: 40px;
+}
+h3,h4{
+    font-size: 40px;
+}
+.main_div button{
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    font-size: 30px;
+    background-color: rgba(233, 102, 102, 0.952);
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+    text-align: center;
+}
